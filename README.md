@@ -26,3 +26,9 @@ In your preferred editor, make sure indentation is set to "4 spaces". This code 
 4. pip install seaborn - It is a data visualization library based on matplotlib.
 
 5. pip install matplotlib - It is a widely used plotting library.
+
+
+# Datasets
+You can find the datasets - Fake.csv and True.csv from the below given link.
+
+https://drive.google.com/drive/u/2/folders/1P2o8qkCmwIPpkDNBrhjfhpnMYuChLgAn
